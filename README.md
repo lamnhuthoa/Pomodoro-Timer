@@ -18,7 +18,7 @@
 </p>
 
 <h3>The App Process</h3>
-Every 25min, the app's creen will show 1 check mark
+Every 25min, the app's screen will show 1 check mark.
 <p align="center">🍅  25min Work</p>
 <p align="center">5min Break  🍅</p>
 <p align="center">🍅  25min Work</p>
